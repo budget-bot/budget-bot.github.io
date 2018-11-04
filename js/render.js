@@ -899,7 +899,7 @@ function render() {
 function init() {
   setup();
   render();
-  setInterval(render, 10000);
+  setInterval(render, 20000);
 }
 
 function setup() {
